@@ -1,0 +1,26 @@
+/** CSS 選擇器 */
+/** 標籤名稱 選擇器 */
+body{
+    background-color:tan;
+    font-family: "微軟正黑體";
+    }
+/** ID 選擇器 */
+#del{
+    text-decoration: line-through;
+    }
+/** CLASS 選擇器 */
+
+.title{
+    font-size:24px ; font-weight:bold
+    }
+.content{
+    width: 500px;
+    margin-top: 10px; 
+    border: 1px dashed white; 
+    padding:10px}
+.keyword{
+    color:tomato
+    }
+.underline{
+    text-decoration: underline;
+    }
